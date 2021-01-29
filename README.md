@@ -1,5 +1,6 @@
 # Server_ReverseShell
-Plataforma Windows, no es detectado por Windows Defender (por ahora), es persistente.                                                                                              
+Plataforma Windows, no es detectado por Windows Defender (por ahora), es persistente.     
+
 INSTRUCCIONES DE USO:                                                                                                                                                            
 1- Configura manualmente la IP y PUERTO en el codigo tanto cliente como servidor.                                                                                              
 2- Compilado en Visual Studio v2019                                                                                                                                                                                                                                                                                          
